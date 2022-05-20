@@ -1,0 +1,43 @@
+body{
+    background-color: #ccc;
+    
+    
+}
+.container{
+    background-color: #fff;
+    margin: 50px;
+    padding: 0.1rem 2.5rem;
+    
+}
+.heading{
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.reciepient{
+    line-height: 0.5em;
+}
+.address, .conclusion{
+    text-align: left;
+    line-height: 1em;
+    margin-left: 55em;
+    
+}
+.salute{
+    font-style: italic;
+}
+.body{
+    line-height: 2.5rem;
+    text-align: justify;
+}
+.sign{
+    background-color: black;
+    height: 0.09px;
+    
+
+}
+.conclusion{
+    text-align: center;
+    line-height: 50px;
+}
